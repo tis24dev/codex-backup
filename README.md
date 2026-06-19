@@ -1,6 +1,17 @@
+<div align="center">
+
 # codex-backup
 
-Hourly backup of the Codex CLI credentials (`~/.codex/auth.json`): saves, verifies, and rotates them automatically via a cron job.
+### Back up your Codex CLI login automatically, every hour.
+
+**Saves, verifies, and rotates `~/.codex/auth.json` so you never lose access.**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
+[![Platform: Linux](https://img.shields.io/badge/Platform-Linux-FCC624.svg?logo=linux&logoColor=black)](https://www.kernel.org/)
+[![Codex CLI](https://img.shields.io/badge/for-Codex%20CLI-412991.svg?logo=openai&logoColor=white)](https://github.com/openai/codex)
+
+</div>
 
 ## Install
 
