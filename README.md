@@ -4,6 +4,14 @@ Hourly backup of the Codex CLI credentials (`~/.codex/auth.json`): saves, verifi
 
 ## Install
 
+Quick install (single command):
+
+```bash
+git clone https://github.com/tis24dev/codex-backup.git && cd codex-backup && python3 install.py
+```
+
+Or step by step:
+
 ```bash
 git clone https://github.com/tis24dev/codex-backup.git
 cd codex-backup
